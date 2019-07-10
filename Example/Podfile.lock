@@ -1,0 +1,16 @@
+PODS:
+  - HLMarketModule (0.1.0)
+
+DEPENDENCIES:
+  - HLMarketModule (from `../`)
+
+EXTERNAL SOURCES:
+  HLMarketModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLMarketModule: 8adb6cb0e327b5cbe8e2701d10636f7903b0e2aa
+
+PODFILE CHECKSUM: c22ce6da86d8f4c8c8170b4365c06e06c301b65a
+
+COCOAPODS: 1.7.2
