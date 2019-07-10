@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLMarketModule_Example' do
+  pod 'HLMarketModule', :path => '../'
+
+  target 'HLMarketModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
